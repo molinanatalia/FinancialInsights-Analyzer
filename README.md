@@ -1,5 +1,5 @@
 # FinancialInsights-Analyzer
-"""# Modelo de Evaluación de Proyectos de Inversión y Análisis de Portafolio
+# Modelo de Evaluación de Proyectos de Inversión y Análisis de Portafolio
 
 Este repositorio contiene un modelo financiero integral desarrollado en **Microsoft Excel** enfocado en la valuación de proyectos de inversión, el análisis de viabilidad financiera y la optimización básica de carteras. El objetivo principal es proporcionar una herramienta técnica estructurada que sirva de soporte para la toma de decisiones corporativas y estratégicas.
 
